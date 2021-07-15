@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - warrior
+  - archer
+  - shield
+  - wizard
+  - priest
+  - knight
+  - swordsman
+  - assassin
+  - inventor
+  - martial
+  - Red
+  - White
+  - Blue
+  - Green
+  - Gray
+  - EnemyObject
+  - Brave
+  - BattleManager
+  - Card
+  - Item
+  - ItemSlot
+  - SubCamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - CardInfo
+  - Attack
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 2687157823
+    locked: 0
+  - name: Card
+    uniqueID: 46565629
+    locked: 0
+  - name: Menu
+    uniqueID: 1726707927
+    locked: 0
+  - name: Brave
+    uniqueID: 1564911177
+    locked: 0
+  - name: InfoCard
+    uniqueID: 3986730139
+    locked: 0
